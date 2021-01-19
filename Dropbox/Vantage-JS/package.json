@@ -1,0 +1,27 @@
+{
+  "name": "vantage",
+  "version": "0.9.0",
+  "description": "A city-building Discord bot",
+  "main": "lib/bot.js",
+  "scripts": {
+    "test": "lib/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonanPseudonym/Vantage.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "vantage"
+  ],
+  "author": "PixelDip Studios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RonanPseudonym/Vantage/issues"
+  },
+  "homepage": "https://github.com/RonanPseudonym/Vantage#readme",
+  "dependencies": {
+    "canvas": "^2.6.1"
+  }
+}
